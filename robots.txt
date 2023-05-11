@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://askabby.github.io/friendly-disco/sitemap.xml

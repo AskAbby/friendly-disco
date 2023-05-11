@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Ask Abby",
+    "description": "",
+    "home_page_url": "https://askabby.github.io/friendly-disco",
+    "feed_url": "https://askabby.github.io/friendly-disco/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Abby"
+    },
+    "items": [
+        {
+            "id": "https://askabby.github.io/friendly-disco/hello-world.html",
+            "url": "https://askabby.github.io/friendly-disco/hello-world.html",
+            "title": "Hello world!",
+            "summary": "First post!",
+            "content_html": "<p>First post!</p>",
+            "author": {
+                "name": "Abby"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-11T18:04:23+08:00",
+            "date_modified": "2023-05-11T18:15:00+08:00"
+        }
+    ]
+}
